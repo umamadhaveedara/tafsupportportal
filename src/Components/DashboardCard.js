@@ -6,7 +6,6 @@ const DashboardCard = () => {
   return (
     <>
       <Card className="mt-3">
-        <Card.Header as="h5">Featured</Card.Header>
         <Card.Body >
           <Card.Title>Special title treatment</Card.Title>
           <Card.Text>
